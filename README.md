@@ -12,11 +12,11 @@
 
 ## 💼 About Me  
 
-Hello! I'm a **Software Developer** 💻 and **Game Designer** 🎮 with a deep passion for creating immersive, high-performance experiences. Whether it's building **real-time applications** ⚡ or crafting **2D games** 🎮, I’m always focused on optimizing performance and making user experiences seamless.
+Hello! I'm a **Software Developer** 💻 and **Game Designer** 🎮 with a deep passion for creating immersive, high-performance experiences. Whether it's building **real-time applications** ⚡ or crafting **2D & 3D games** 🎮, I’m always focused on optimizing performance and making user experiences seamless.
 
-- **Languages & Tools:** C++, Python, JavaScript, Java, C, HTML, CSS, Firebase 🛠️
+- **Languages & Tools:** C++, Python, JavaScript, HTML, CSS, Firebase 🛠️
 - **Competitions:** Actively involved in **programming challenges** 🏆.
-- **Languages:** Fluent in multiple languages 🌍, always looking to expand my linguistic and technical knowledge.  
+- **Languages:** Fluent in multiple languages as **English** 🌍, always looking to expand my linguistic and technical knowledge.  
 - **Mindset:** Focused on **innovation**, **learning** 📚, and **collaboration** 🤝.
 ---
 
